@@ -26,5 +26,3 @@ vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?encryption=none&se
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40prroxyng
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#&v2ray_cartel+join+sho
-
