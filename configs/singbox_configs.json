@@ -79,16 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 ss-754e2505 (United Kingdom)",
-        "🇬🇧 ss-562f75f9 (United Kingdom)",
-        "🇬🇧 ss-21392251 (United Kingdom)",
-        "🇬🇧 ss-47b2822d (United Kingdom)",
-        "🇨🇿 vless-fec265e5 (Czechia)",
-        "🇨🇿 vless-3a64ab67 (Czechia)",
-        "🇨🇿 vless-2611cb43 (Czechia)",
-        "🇷🇺 vless-9d04df73 (Russia)",
-        "🇨🇿 vless-76097041 (Czechia)",
-        "🇨🇦 vless-08d91037 (Canada)",
+        "🇨🇿 vless-8cc1a0e6 (Czechia)",
+        "🇨🇿 vless-0294961c (Czechia)",
+        "🇨🇿 vless-0ef0d5b2 (Czechia)",
+        "🇷🇺 vless-834a4763 (Russia)",
+        "🇨🇿 vless-5fcfaffa (Czechia)",
+        "🇨🇦 vless-1d499ed6 (Canada)",
         "direct"
       ]
     },
@@ -96,16 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 ss-754e2505 (United Kingdom)",
-        "🇬🇧 ss-562f75f9 (United Kingdom)",
-        "🇬🇧 ss-21392251 (United Kingdom)",
-        "🇬🇧 ss-47b2822d (United Kingdom)",
-        "🇨🇿 vless-fec265e5 (Czechia)",
-        "🇨🇿 vless-3a64ab67 (Czechia)",
-        "🇨🇿 vless-2611cb43 (Czechia)",
-        "🇷🇺 vless-9d04df73 (Russia)",
-        "🇨🇿 vless-76097041 (Czechia)",
-        "🇨🇦 vless-08d91037 (Canada)"
+        "🇨🇿 vless-8cc1a0e6 (Czechia)",
+        "🇨🇿 vless-0294961c (Czechia)",
+        "🇨🇿 vless-0ef0d5b2 (Czechia)",
+        "🇷🇺 vless-834a4763 (Russia)",
+        "🇨🇿 vless-5fcfaffa (Czechia)",
+        "🇨🇦 vless-1d499ed6 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -116,40 +108,8 @@
       "type": "direct"
     },
     {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-754e2505 (United Kingdom)",
-      "server": "series-a2-mec.varzesh360.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "u17T3BvpYaaiuW2c"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-562f75f9 (United Kingdom)",
-      "server": "series-a2-me.varzesh360.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Bog0ELmMM9DSxDdQ"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-21392251 (United Kingdom)",
-      "server": "series-a2.samanehha.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "mps3FwmDjLrWaOVg"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-47b2822d (United Kingdom)",
-      "server": "series-a2.varzesh360.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "mps3FwmDjLrWaOVg"
-    },
-    {
       "type": "vless",
-      "tag": "🇨🇿 vless-fec265e5 (Czechia)",
+      "tag": "🇨🇿 vless-8cc1a0e6 (Czechia)",
       "server": "194.182.79.202",
       "server_port": 39049,
       "uuid": "2d354fd2-398f-49c7-ba63-4db505a22b41",
@@ -163,7 +123,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-3a64ab67 (Czechia)",
+      "tag": "🇨🇿 vless-0294961c (Czechia)",
       "server": "194.182.79.113",
       "server_port": 26468,
       "uuid": "4fd16f19-a4eb-4c99-888e-07af121173d8",
@@ -177,7 +137,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-2611cb43 (Czechia)",
+      "tag": "🇨🇿 vless-0ef0d5b2 (Czechia)",
       "server": "194.182.79.147",
       "server_port": 35628,
       "uuid": "53bbefc3-dfa1-4581-9001-51a5c0ebb3a5",
@@ -191,7 +151,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-9d04df73 (Russia)",
+      "tag": "🇷🇺 vless-834a4763 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -211,7 +171,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-76097041 (Czechia)",
+      "tag": "🇨🇿 vless-5fcfaffa (Czechia)",
       "server": "194.182.79.147",
       "server_port": 35628,
       "uuid": "c5e94cfd-057d-4a8d-99e9-3a1c92f7120d",
@@ -225,7 +185,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-08d91037 (Canada)",
+      "tag": "🇨🇦 vless-1d499ed6 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
