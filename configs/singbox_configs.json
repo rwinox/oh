@@ -79,16 +79,16 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 ss-a513a22c (United Kingdom)",
-        "🇬🇧 ss-06e4eac5 (United Kingdom)",
-        "🇬🇧 ss-c34f0728 (United Kingdom)",
-        "🇬🇧 ss-4ca2df0d (United Kingdom)",
-        "🇨🇿 vless-45e78dd2 (Czechia)",
-        "🇨🇿 vless-d1f0a519 (Czechia)",
-        "🇨🇿 vless-ba58e28b (Czechia)",
-        "🇷🇺 vless-b62d8e5b (Russia)",
-        "🇨🇿 vless-501ca7eb (Czechia)",
-        "🇨🇦 vless-69f5f484 (Canada)",
+        "🇬🇧 ss-754e2505 (United Kingdom)",
+        "🇬🇧 ss-562f75f9 (United Kingdom)",
+        "🇬🇧 ss-21392251 (United Kingdom)",
+        "🇬🇧 ss-47b2822d (United Kingdom)",
+        "🇨🇿 vless-fec265e5 (Czechia)",
+        "🇨🇿 vless-3a64ab67 (Czechia)",
+        "🇨🇿 vless-2611cb43 (Czechia)",
+        "🇷🇺 vless-9d04df73 (Russia)",
+        "🇨🇿 vless-76097041 (Czechia)",
+        "🇨🇦 vless-08d91037 (Canada)",
         "direct"
       ]
     },
@@ -96,16 +96,16 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 ss-a513a22c (United Kingdom)",
-        "🇬🇧 ss-06e4eac5 (United Kingdom)",
-        "🇬🇧 ss-c34f0728 (United Kingdom)",
-        "🇬🇧 ss-4ca2df0d (United Kingdom)",
-        "🇨🇿 vless-45e78dd2 (Czechia)",
-        "🇨🇿 vless-d1f0a519 (Czechia)",
-        "🇨🇿 vless-ba58e28b (Czechia)",
-        "🇷🇺 vless-b62d8e5b (Russia)",
-        "🇨🇿 vless-501ca7eb (Czechia)",
-        "🇨🇦 vless-69f5f484 (Canada)"
+        "🇬🇧 ss-754e2505 (United Kingdom)",
+        "🇬🇧 ss-562f75f9 (United Kingdom)",
+        "🇬🇧 ss-21392251 (United Kingdom)",
+        "🇬🇧 ss-47b2822d (United Kingdom)",
+        "🇨🇿 vless-fec265e5 (Czechia)",
+        "🇨🇿 vless-3a64ab67 (Czechia)",
+        "🇨🇿 vless-2611cb43 (Czechia)",
+        "🇷🇺 vless-9d04df73 (Russia)",
+        "🇨🇿 vless-76097041 (Czechia)",
+        "🇨🇦 vless-08d91037 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -117,7 +117,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-a513a22c (United Kingdom)",
+      "tag": "🇬🇧 ss-754e2505 (United Kingdom)",
       "server": "series-a2-mec.varzesh360.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -125,7 +125,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-06e4eac5 (United Kingdom)",
+      "tag": "🇬🇧 ss-562f75f9 (United Kingdom)",
       "server": "series-a2-me.varzesh360.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -133,7 +133,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-c34f0728 (United Kingdom)",
+      "tag": "🇬🇧 ss-21392251 (United Kingdom)",
       "server": "series-a2.samanehha.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -141,7 +141,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-4ca2df0d (United Kingdom)",
+      "tag": "🇬🇧 ss-47b2822d (United Kingdom)",
       "server": "series-a2.varzesh360.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -149,7 +149,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-45e78dd2 (Czechia)",
+      "tag": "🇨🇿 vless-fec265e5 (Czechia)",
       "server": "194.182.79.202",
       "server_port": 39049,
       "uuid": "2d354fd2-398f-49c7-ba63-4db505a22b41",
@@ -163,7 +163,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-d1f0a519 (Czechia)",
+      "tag": "🇨🇿 vless-3a64ab67 (Czechia)",
       "server": "194.182.79.113",
       "server_port": 26468,
       "uuid": "4fd16f19-a4eb-4c99-888e-07af121173d8",
@@ -177,7 +177,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-ba58e28b (Czechia)",
+      "tag": "🇨🇿 vless-2611cb43 (Czechia)",
       "server": "194.182.79.147",
       "server_port": 35628,
       "uuid": "53bbefc3-dfa1-4581-9001-51a5c0ebb3a5",
@@ -191,7 +191,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-b62d8e5b (Russia)",
+      "tag": "🇷🇺 vless-9d04df73 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -211,7 +211,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-501ca7eb (Czechia)",
+      "tag": "🇨🇿 vless-76097041 (Czechia)",
       "server": "194.182.79.147",
       "server_port": 35628,
       "uuid": "c5e94cfd-057d-4a8d-99e9-3a1c92f7120d",
@@ -225,7 +225,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-69f5f484 (Canada)",
+      "tag": "🇨🇦 vless-08d91037 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
