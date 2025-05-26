@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-26T06:25:05.382005+00:00",
+  "timestamp": "2025-05-26T07:21:24.655898+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2025-05-26T06:24:55.812238+00:00",
+        "overall_score": 77.73,
+        "last_success": "2025-05-26T07:21:15.410845+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 50,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2025-05-26T06:24:58.513559+00:00",
+        "overall_score": 75.28,
+        "last_success": "2025-05-26T07:21:17.975113+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/nufilter",
       "enabled": false,
       "metrics": {
-        "total_configs": 4,
+        "total_configs": 5,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -100,11 +100,11 @@
         "total_configs": 9,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.55,
-        "last_success": "2025-05-26T06:25:05.381437+00:00",
+        "overall_score": 88.66,
+        "last_success": "2025-05-26T07:21:24.655246+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
