@@ -79,12 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-d9ddb000 (Czechia)",
-        "🇨🇿 vless-8e15b832 (Czechia)",
-        "🇷🇺 vless-f832f80d (Russia)",
-        "🇨🇿 vless-daff6bc5 (Czechia)",
-        "🇨🇦 vless-efdc6116 (Canada)",
-        "🇨🇿 vless-8b609c7d (Czechia)",
+        "🇨🇿 vless-4d74a101 (Czechia)",
+        "🇨🇿 vless-4bf85fdd (Czechia)",
+        "🇷🇺 vless-4ff3a0e0 (Russia)",
+        "🇨🇿 vless-e9016b63 (Czechia)",
+        "🇨🇦 vless-f95cbfa5 (Canada)",
+        "🇨🇿 vless-74ba0bc9 (Czechia)",
         "direct"
       ]
     },
@@ -92,12 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-d9ddb000 (Czechia)",
-        "🇨🇿 vless-8e15b832 (Czechia)",
-        "🇷🇺 vless-f832f80d (Russia)",
-        "🇨🇿 vless-daff6bc5 (Czechia)",
-        "🇨🇦 vless-efdc6116 (Canada)",
-        "🇨🇿 vless-8b609c7d (Czechia)"
+        "🇨🇿 vless-4d74a101 (Czechia)",
+        "🇨🇿 vless-4bf85fdd (Czechia)",
+        "🇷🇺 vless-4ff3a0e0 (Russia)",
+        "🇨🇿 vless-e9016b63 (Czechia)",
+        "🇨🇦 vless-f95cbfa5 (Canada)",
+        "🇨🇿 vless-74ba0bc9 (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -109,7 +109,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-d9ddb000 (Czechia)",
+      "tag": "🇨🇿 vless-4d74a101 (Czechia)",
       "server": "194.182.79.202",
       "server_port": 39049,
       "uuid": "2d354fd2-398f-49c7-ba63-4db505a22b41",
@@ -123,7 +123,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-8e15b832 (Czechia)",
+      "tag": "🇨🇿 vless-4bf85fdd (Czechia)",
       "server": "194.182.79.113",
       "server_port": 26468,
       "uuid": "4fd16f19-a4eb-4c99-888e-07af121173d8",
@@ -137,7 +137,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-f832f80d (Russia)",
+      "tag": "🇷🇺 vless-4ff3a0e0 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -157,7 +157,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-daff6bc5 (Czechia)",
+      "tag": "🇨🇿 vless-e9016b63 (Czechia)",
       "server": "194.182.79.147",
       "server_port": 35628,
       "uuid": "c5e94cfd-057d-4a8d-99e9-3a1c92f7120d",
@@ -171,7 +171,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-efdc6116 (Canada)",
+      "tag": "🇨🇦 vless-f95cbfa5 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -191,7 +191,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-8b609c7d (Czechia)",
+      "tag": "🇨🇿 vless-74ba0bc9 (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "ef6265e6-839b-4a8a-b1c1-6ed160063ef2",
