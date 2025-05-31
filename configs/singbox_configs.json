@@ -79,15 +79,15 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-42186d42 (Czechia)",
-        "🇨🇿 vless-8a1651d4 (Czechia)",
-        "🇨🇿 vless-0f466677 (Czechia)",
-        "🇷🇺 vless-d1f025ba (Russia)",
-        "🇨🇿 vless-b3806cf9 (Czechia)",
-        "🇨🇦 vless-069fe1ac (Canada)",
-        "🇨🇿 vless-edbd4382 (Czechia)",
-        "🇨🇿 vless-ca8011a2 (Czechia)",
-        "🇨🇿 vless-14fc76b3 (Czechia)",
+        "🇨🇿 vless-8300dd5d (Czechia)",
+        "🇨🇿 vless-6408eeab (Czechia)",
+        "🇨🇿 vless-05c6045b (Czechia)",
+        "🇷🇺 vless-4e801e49 (Russia)",
+        "🇨🇿 vless-eaaf3046 (Czechia)",
+        "🇨🇦 vless-46aa6901 (Canada)",
+        "🇨🇿 vless-18de13c5 (Czechia)",
+        "🇨🇿 vless-dacd5ace (Czechia)",
+        "🇨🇿 vless-d0ac87cc (Czechia)",
         "direct"
       ]
     },
@@ -95,15 +95,15 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-42186d42 (Czechia)",
-        "🇨🇿 vless-8a1651d4 (Czechia)",
-        "🇨🇿 vless-0f466677 (Czechia)",
-        "🇷🇺 vless-d1f025ba (Russia)",
-        "🇨🇿 vless-b3806cf9 (Czechia)",
-        "🇨🇦 vless-069fe1ac (Canada)",
-        "🇨🇿 vless-edbd4382 (Czechia)",
-        "🇨🇿 vless-ca8011a2 (Czechia)",
-        "🇨🇿 vless-14fc76b3 (Czechia)"
+        "🇨🇿 vless-8300dd5d (Czechia)",
+        "🇨🇿 vless-6408eeab (Czechia)",
+        "🇨🇿 vless-05c6045b (Czechia)",
+        "🇷🇺 vless-4e801e49 (Russia)",
+        "🇨🇿 vless-eaaf3046 (Czechia)",
+        "🇨🇦 vless-46aa6901 (Canada)",
+        "🇨🇿 vless-18de13c5 (Czechia)",
+        "🇨🇿 vless-dacd5ace (Czechia)",
+        "🇨🇿 vless-d0ac87cc (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -115,7 +115,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-42186d42 (Czechia)",
+      "tag": "🇨🇿 vless-8300dd5d (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "0ce4d0ac-f23e-4921-97fc-c2a3acefac0a",
@@ -129,7 +129,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-8a1651d4 (Czechia)",
+      "tag": "🇨🇿 vless-6408eeab (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "49d4a648-b344-489a-903c-150e3efe2380",
@@ -143,7 +143,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-0f466677 (Czechia)",
+      "tag": "🇨🇿 vless-05c6045b (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "55591059-5802-4d2c-a5aa-7033d9f72346",
@@ -157,7 +157,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-d1f025ba (Russia)",
+      "tag": "🇷🇺 vless-4e801e49 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -177,7 +177,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-b3806cf9 (Czechia)",
+      "tag": "🇨🇿 vless-eaaf3046 (Czechia)",
       "server": "194.182.79.113",
       "server_port": 26468,
       "uuid": "8587f68d-a0f7-416b-af02-2c01374b98fe",
@@ -191,7 +191,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-069fe1ac (Canada)",
+      "tag": "🇨🇦 vless-46aa6901 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -211,7 +211,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-edbd4382 (Czechia)",
+      "tag": "🇨🇿 vless-18de13c5 (Czechia)",
       "server": "194.182.79.100",
       "server_port": 42438,
       "uuid": "d9d7de85-cfb2-4ba8-9cf3-6354090cafa6",
@@ -225,7 +225,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-ca8011a2 (Czechia)",
+      "tag": "🇨🇿 vless-dacd5ace (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "ef6265e6-839b-4a8a-b1c1-6ed160063ef2",
@@ -239,7 +239,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-14fc76b3 (Czechia)",
+      "tag": "🇨🇿 vless-d0ac87cc (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "f64aac0e-d26e-44c1-adce-5465908d6c69",
