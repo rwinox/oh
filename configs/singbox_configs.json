@@ -79,15 +79,14 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-8680b9f4 (Czechia)",
-        "🇨🇿 vless-138cc598 (Czechia)",
-        "🇨🇿 vless-bcf276a2 (Czechia)",
-        "🇷🇺 vless-ade4e775 (Russia)",
-        "🇨🇿 vless-27599685 (Czechia)",
-        "🇨🇦 vless-33458b77 (Canada)",
-        "🇨🇿 vless-c99e73ff (Czechia)",
-        "🇨🇿 vless-003dd121 (Czechia)",
-        "🇨🇿 vless-04a57f91 (Czechia)",
+        "🇨🇿 vless-027fe8fe (Czechia)",
+        "🇨🇿 vless-f871a576 (Czechia)",
+        "🇨🇿 vless-5865a67b (Czechia)",
+        "🇷🇺 vless-6c268f61 (Russia)",
+        "🇨🇿 vless-6e148809 (Czechia)",
+        "🇨🇦 vless-bbdde655 (Canada)",
+        "🇨🇿 vless-8c93ce8c (Czechia)",
+        "🇨🇿 vless-2d88e5e4 (Czechia)",
         "direct"
       ]
     },
@@ -95,15 +94,14 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-8680b9f4 (Czechia)",
-        "🇨🇿 vless-138cc598 (Czechia)",
-        "🇨🇿 vless-bcf276a2 (Czechia)",
-        "🇷🇺 vless-ade4e775 (Russia)",
-        "🇨🇿 vless-27599685 (Czechia)",
-        "🇨🇦 vless-33458b77 (Canada)",
-        "🇨🇿 vless-c99e73ff (Czechia)",
-        "🇨🇿 vless-003dd121 (Czechia)",
-        "🇨🇿 vless-04a57f91 (Czechia)"
+        "🇨🇿 vless-027fe8fe (Czechia)",
+        "🇨🇿 vless-f871a576 (Czechia)",
+        "🇨🇿 vless-5865a67b (Czechia)",
+        "🇷🇺 vless-6c268f61 (Russia)",
+        "🇨🇿 vless-6e148809 (Czechia)",
+        "🇨🇦 vless-bbdde655 (Canada)",
+        "🇨🇿 vless-8c93ce8c (Czechia)",
+        "🇨🇿 vless-2d88e5e4 (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -115,7 +113,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-8680b9f4 (Czechia)",
+      "tag": "🇨🇿 vless-027fe8fe (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "0ce4d0ac-f23e-4921-97fc-c2a3acefac0a",
@@ -129,7 +127,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-138cc598 (Czechia)",
+      "tag": "🇨🇿 vless-f871a576 (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "49d4a648-b344-489a-903c-150e3efe2380",
@@ -143,7 +141,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-bcf276a2 (Czechia)",
+      "tag": "🇨🇿 vless-5865a67b (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "55591059-5802-4d2c-a5aa-7033d9f72346",
@@ -157,7 +155,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-ade4e775 (Russia)",
+      "tag": "🇷🇺 vless-6c268f61 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -177,7 +175,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-27599685 (Czechia)",
+      "tag": "🇨🇿 vless-6e148809 (Czechia)",
       "server": "194.182.79.113",
       "server_port": 26468,
       "uuid": "8587f68d-a0f7-416b-af02-2c01374b98fe",
@@ -191,7 +189,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-33458b77 (Canada)",
+      "tag": "🇨🇦 vless-bbdde655 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -211,7 +209,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-c99e73ff (Czechia)",
+      "tag": "🇨🇿 vless-8c93ce8c (Czechia)",
       "server": "194.182.79.100",
       "server_port": 42438,
       "uuid": "d9d7de85-cfb2-4ba8-9cf3-6354090cafa6",
@@ -225,21 +223,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-003dd121 (Czechia)",
-      "server": "194.182.79.216",
-      "server_port": 52843,
-      "uuid": "ef6265e6-839b-4a8a-b1c1-6ed160063ef2",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "194.182.79.216",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇿 vless-04a57f91 (Czechia)",
+      "tag": "🇨🇿 vless-2d88e5e4 (Czechia)",
       "server": "194.182.79.216",
       "server_port": 52843,
       "uuid": "f64aac0e-d26e-44c1-adce-5465908d6c69",
