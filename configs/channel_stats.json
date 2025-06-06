@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-06T10:18:42.340837+00:00",
+  "timestamp": "2025-06-06T11:14:25.524008+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.71,
-        "last_success": "2025-06-06T10:18:32.959999+00:00",
+        "last_success": "2025-06-06T11:14:16.265625+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 42,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.39,
-        "last_success": "2025-06-06T10:18:35.590941+00:00",
+        "overall_score": 75.44,
+        "last_success": "2025-06-06T11:14:18.871981+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,18 +97,18 @@
       "url": "https://t.me/s/zedmodeonVPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 12,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.19,
+        "total_configs": 16,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.31,
-        "last_success": "2025-06-06T10:18:42.340291+00:00",
+        "overall_score": 90.38,
+        "last_success": "2025-06-06T11:14:25.523404+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 7,
+          "vless://": 10,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
