@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-5e6c91be (Czechia)",
-        "🇷🇺 vless-2ddbf7a2 (Russia)",
-        "🇨🇿 vless-897aa3e9 (Czechia)",
-        "🇨🇦 vless-d35a4c1c (Canada)",
+        "🇨🇿 vless-dc27336b (Czechia)",
+        "🇷🇺 vless-2bcc3796 (Russia)",
+        "🇨🇿 vless-8e80cc16 (Czechia)",
+        "🇨🇦 vless-65e2f72a (Canada)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-5e6c91be (Czechia)",
-        "🇷🇺 vless-2ddbf7a2 (Russia)",
-        "🇨🇿 vless-897aa3e9 (Czechia)",
-        "🇨🇦 vless-d35a4c1c (Canada)"
+        "🇨🇿 vless-dc27336b (Czechia)",
+        "🇷🇺 vless-2bcc3796 (Russia)",
+        "🇨🇿 vless-8e80cc16 (Czechia)",
+        "🇨🇦 vless-65e2f72a (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-5e6c91be (Czechia)",
+      "tag": "🇨🇿 vless-dc27336b (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "391c477b-545d-405f-bb78-371e0d1fb63f",
@@ -119,7 +119,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-2ddbf7a2 (Russia)",
+      "tag": "🇷🇺 vless-2bcc3796 (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -139,7 +139,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-897aa3e9 (Czechia)",
+      "tag": "🇨🇿 vless-8e80cc16 (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "c12c891e-f93d-4b2a-b757-087289679753",
@@ -153,7 +153,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-d35a4c1c (Canada)",
+      "tag": "🇨🇦 vless-65e2f72a (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
