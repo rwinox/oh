@@ -79,11 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-96d4c1c2 (Czechia)",
-        "🇷🇺 vless-c76e784c (Russia)",
-        "🇨🇿 vless-a6322966 (Czechia)",
-        "🇨🇦 vless-4cdd37b8 (Canada)",
-        "🇮🇷 vmess-165dbb3d (Iran)",
+        "🇨🇿 vless-f56efeb1 (Czechia)",
+        "🇷🇺 vless-189ad82d (Russia)",
+        "🇨🇿 vless-1e951be2 (Czechia)",
+        "🇨🇦 vless-ee4f5011 (Canada)",
         "direct"
       ]
     },
@@ -91,11 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-96d4c1c2 (Czechia)",
-        "🇷🇺 vless-c76e784c (Russia)",
-        "🇨🇿 vless-a6322966 (Czechia)",
-        "🇨🇦 vless-4cdd37b8 (Canada)",
-        "🇮🇷 vmess-165dbb3d (Iran)"
+        "🇨🇿 vless-f56efeb1 (Czechia)",
+        "🇷🇺 vless-189ad82d (Russia)",
+        "🇨🇿 vless-1e951be2 (Czechia)",
+        "🇨🇦 vless-ee4f5011 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +105,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-96d4c1c2 (Czechia)",
+      "tag": "🇨🇿 vless-f56efeb1 (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "391c477b-545d-405f-bb78-371e0d1fb63f",
@@ -121,7 +119,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-c76e784c (Russia)",
+      "tag": "🇷🇺 vless-189ad82d (Russia)",
       "server": "89.23.118.93",
       "server_port": 443,
       "uuid": "588f094b-431b-422c-b80b-007945037072",
@@ -141,7 +139,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-a6322966 (Czechia)",
+      "tag": "🇨🇿 vless-1e951be2 (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "c12c891e-f93d-4b2a-b757-087289679753",
@@ -155,7 +153,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-4cdd37b8 (Canada)",
+      "tag": "🇨🇦 vless-ee4f5011 (Canada)",
       "server": "172.67.73.163",
       "server_port": 80,
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -171,21 +169,6 @@
           "Host": "a.xn--i-sx6a60i.us.kg."
         },
         "type": "ws"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇮🇷 vmess-165dbb3d (Iran)",
-      "server": "178.239.144.99",
-      "server_port": 14000,
-      "uuid": "f4e0a47f-251c-dfbf-7980-d935cfd7fa81",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {},
-      "tls": {
-        "enabled": false,
-        "insecure": true,
-        "server_name": ""
       }
     }
   ],
