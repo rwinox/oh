@@ -79,10 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-fc776a82 (Czechia)",
-        "🇷🇺 vless-cb36bbb7 (Russia)",
-        "🇨🇿 vless-ae4cf19b (Czechia)",
-        "🇨🇦 vless-ecaf15ab (Canada)",
+        "🇨🇿 vless-4e94e860 (Czechia)",
+        "🇨🇿 vless-be860280 (Czechia)",
         "direct"
       ]
     },
@@ -90,10 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-fc776a82 (Czechia)",
-        "🇷🇺 vless-cb36bbb7 (Russia)",
-        "🇨🇿 vless-ae4cf19b (Czechia)",
-        "🇨🇦 vless-ecaf15ab (Canada)"
+        "🇨🇿 vless-4e94e860 (Czechia)",
+        "🇨🇿 vless-be860280 (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-fc776a82 (Czechia)",
+      "tag": "🇨🇿 vless-4e94e860 (Czechia)",
       "server": "194.182.79.41",
       "server_port": 48615,
       "uuid": "391c477b-545d-405f-bb78-371e0d1fb63f",
@@ -119,27 +115,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-cb36bbb7 (Russia)",
-      "server": "89.23.118.93",
-      "server_port": 443,
-      "uuid": "588f094b-431b-422c-b80b-007945037072",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "ru01.abvpn.ru",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/websocket",
-        "headers": {
-          "Host": "ru01.abvpn.ru"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇿 vless-ae4cf19b (Czechia)",
+      "tag": "🇨🇿 vless-be860280 (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "c12c891e-f93d-4b2a-b757-087289679753",
@@ -150,26 +126,6 @@
         "insecure": true
       },
       "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-ecaf15ab (Canada)",
-      "server": "172.67.73.163",
-      "server_port": 80,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "172.67.73.163",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "a.xn--i-sx6a60i.us.kg."
-        },
-        "type": "ws"
-      }
     }
   ],
   "route": {
