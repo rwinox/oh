@@ -79,11 +79,9 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 ss-dd2706cb (United Kingdom)",
-        "🇨🇿 vless-6327b7af (Czechia)",
-        "🇨🇿 vless-3befecd2 (Czechia)",
-        "🇷🇺 vless-31b321bf (Russia)",
-        "🇨🇦 vless-38b864b0 (Canada)",
+        "🇬🇧 ss-a749567f (United Kingdom)",
+        "🇨🇿 vless-10b18c76 (Czechia)",
+        "🇨🇿 vless-b9f84c56 (Czechia)",
         "direct"
       ]
     },
@@ -91,11 +89,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 ss-dd2706cb (United Kingdom)",
-        "🇨🇿 vless-6327b7af (Czechia)",
-        "🇨🇿 vless-3befecd2 (Czechia)",
-        "🇷🇺 vless-31b321bf (Russia)",
-        "🇨🇦 vless-38b864b0 (Canada)"
+        "🇬🇧 ss-a749567f (United Kingdom)",
+        "🇨🇿 vless-10b18c76 (Czechia)",
+        "🇨🇿 vless-b9f84c56 (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +103,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-dd2706cb (United Kingdom)",
+      "tag": "🇬🇧 ss-a749567f (United Kingdom)",
       "server": "series-a2-mec.varzesh360.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -115,7 +111,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-6327b7af (Czechia)",
+      "tag": "🇨🇿 vless-10b18c76 (Czechia)",
       "server": "194.182.79.100",
       "server_port": 42438,
       "uuid": "1f293ef5-8a29-4928-9f6f-117bde9a0ac4",
@@ -129,7 +125,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-3befecd2 (Czechia)",
+      "tag": "🇨🇿 vless-b9f84c56 (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "3568f7f1-0332-49ff-bd18-e5cca38dfbbf",
@@ -140,46 +136,6 @@
         "insecure": true
       },
       "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "🇷🇺 vless-31b321bf (Russia)",
-      "server": "89.23.118.93",
-      "server_port": 443,
-      "uuid": "588f094b-431b-422c-b80b-007945037072",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "ru01.abvpn.ru",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/websocket",
-        "headers": {
-          "Host": "ru01.abvpn.ru"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-38b864b0 (Canada)",
-      "server": "172.67.73.163",
-      "server_port": 80,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "172.67.73.163",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "a.xn--i-sx6a60i.us.kg."
-        },
-        "type": "ws"
-      }
     }
   ],
   "route": {
