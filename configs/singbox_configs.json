@@ -79,11 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 ss-b7ae4985 (United Kingdom)",
-        "🇨🇿 vless-a1ab90b5 (Czechia)",
-        "🇨🇿 vless-06975b59 (Czechia)",
-        "🇨🇿 vless-86aa38e0 (Czechia)",
-        "🇨🇿 vless-9a23ae93 (Czechia)",
+        "🇨🇿 vless-8a7d5e94 (Czechia)",
+        "🇨🇿 vless-168ef40d (Czechia)",
+        "🇨🇿 vless-52f6b00f (Czechia)",
+        "🇺🇸 vless-d8856d4a (United States)",
+        "🇨🇿 vless-1bd907c9 (Czechia)",
+        "🇬🇧 ss-492a09bf (United Kingdom)",
         "direct"
       ]
     },
@@ -91,11 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 ss-b7ae4985 (United Kingdom)",
-        "🇨🇿 vless-a1ab90b5 (Czechia)",
-        "🇨🇿 vless-06975b59 (Czechia)",
-        "🇨🇿 vless-86aa38e0 (Czechia)",
-        "🇨🇿 vless-9a23ae93 (Czechia)"
+        "🇨🇿 vless-8a7d5e94 (Czechia)",
+        "🇨🇿 vless-168ef40d (Czechia)",
+        "🇨🇿 vless-52f6b00f (Czechia)",
+        "🇺🇸 vless-d8856d4a (United States)",
+        "🇨🇿 vless-1bd907c9 (Czechia)",
+        "🇬🇧 ss-492a09bf (United Kingdom)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -106,16 +108,8 @@
       "type": "direct"
     },
     {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-b7ae4985 (United Kingdom)",
-      "server": "series-a2-mec.varzesh360.co",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "u17T3BvpYaaiuW2c"
-    },
-    {
       "type": "vless",
-      "tag": "🇨🇿 vless-a1ab90b5 (Czechia)",
+      "tag": "🇨🇿 vless-8a7d5e94 (Czechia)",
       "server": "194.182.79.100",
       "server_port": 42438,
       "uuid": "1f293ef5-8a29-4928-9f6f-117bde9a0ac4",
@@ -129,7 +123,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-06975b59 (Czechia)",
+      "tag": "🇨🇿 vless-168ef40d (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "3568f7f1-0332-49ff-bd18-e5cca38dfbbf",
@@ -143,7 +137,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-86aa38e0 (Czechia)",
+      "tag": "🇨🇿 vless-52f6b00f (Czechia)",
       "server": "194.182.79.163",
       "server_port": 53705,
       "uuid": "8d1b6e34-a632-4892-857a-493b4c148288",
@@ -157,7 +151,21 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-9a23ae93 (Czechia)",
+      "tag": "🇺🇸 vless-d8856d4a (United States)",
+      "server": "151.101.6.200",
+      "server_port": 80,
+      "uuid": "9a620099-7df2-4935-9c01-d52a3897512a",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "151.101.6.200",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇿 vless-1bd907c9 (Czechia)",
       "server": "194.182.79.222",
       "server_port": 59791,
       "uuid": "a7920b71-5da4-4e49-b331-82f851c3dad3",
@@ -168,6 +176,14 @@
         "insecure": true
       },
       "transport": {}
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-492a09bf (United Kingdom)",
+      "server": "series-a2-mec.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
     }
   ],
   "route": {
