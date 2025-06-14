@@ -79,9 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 ss-836ba008 (United Kingdom)",
-        "🇨🇿 vless-2c631f4d (Czechia)",
-        "🇨🇿 vless-cca4c16f (Czechia)",
+        "🇬🇧 ss-11fa6efb (United Kingdom)",
+        "🇨🇿 vless-c5774f0e (Czechia)",
+        "🇨🇿 vless-b558f5f0 (Czechia)",
+        "🇨🇿 vless-b05296a0 (Czechia)",
+        "🇨🇿 vless-e273b43e (Czechia)",
         "direct"
       ]
     },
@@ -89,9 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 ss-836ba008 (United Kingdom)",
-        "🇨🇿 vless-2c631f4d (Czechia)",
-        "🇨🇿 vless-cca4c16f (Czechia)"
+        "🇬🇧 ss-11fa6efb (United Kingdom)",
+        "🇨🇿 vless-c5774f0e (Czechia)",
+        "🇨🇿 vless-b558f5f0 (Czechia)",
+        "🇨🇿 vless-b05296a0 (Czechia)",
+        "🇨🇿 vless-e273b43e (Czechia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -103,7 +107,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-836ba008 (United Kingdom)",
+      "tag": "🇬🇧 ss-11fa6efb (United Kingdom)",
       "server": "series-a2-mec.varzesh360.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -111,7 +115,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-2c631f4d (Czechia)",
+      "tag": "🇨🇿 vless-c5774f0e (Czechia)",
       "server": "194.182.79.100",
       "server_port": 42438,
       "uuid": "1f293ef5-8a29-4928-9f6f-117bde9a0ac4",
@@ -125,7 +129,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-cca4c16f (Czechia)",
+      "tag": "🇨🇿 vless-b558f5f0 (Czechia)",
       "server": "194.182.79.143",
       "server_port": 36936,
       "uuid": "3568f7f1-0332-49ff-bd18-e5cca38dfbbf",
@@ -133,6 +137,34 @@
       "tls": {
         "enabled": true,
         "server_name": "194.182.79.143",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇿 vless-b05296a0 (Czechia)",
+      "server": "194.182.79.163",
+      "server_port": 53705,
+      "uuid": "8d1b6e34-a632-4892-857a-493b4c148288",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "194.182.79.163",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇿 vless-e273b43e (Czechia)",
+      "server": "194.182.79.222",
+      "server_port": 59791,
+      "uuid": "a7920b71-5da4-4e49-b331-82f851c3dad3",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "194.182.79.222",
         "insecure": true
       },
       "transport": {}
