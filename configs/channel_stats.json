@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-15T01:28:29.640633+00:00",
+  "timestamp": "2025-06-15T03:22:06.453118+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.64,
-        "last_success": "2025-06-15T01:28:20.363958+00:00",
+        "overall_score": 77.46,
+        "last_success": "2025-06-15T03:21:57.012639+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 35,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.99,
-        "last_success": "2025-06-15T01:28:23.018939+00:00",
+        "overall_score": 74.84,
+        "last_success": "2025-06-15T03:21:59.661128+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,7 +51,7 @@
       "url": "https://t.me/s/nufilter",
       "enabled": false,
       "metrics": {
-        "total_configs": 11,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -100,11 +100,11 @@
         "total_configs": 12,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.17,
-        "last_success": "2025-06-15T01:28:29.639878+00:00",
+        "overall_score": 85.09,
+        "last_success": "2025-06-15T03:22:06.452456+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
