@@ -24,8 +24,6 @@ vless://42fca25b-adcf-4b7f-a7e3-522ba1d16c87@140.248.125.5:80?mode=auto&path=ZED
 
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#IRAN%2010%20%28%40Outline_Vpn%29
 
-vless://4d57855d-9185-49ea-a855-882ce257b763@151.101.6.200:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=joinZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20163
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#IRAN%2010%20%28%40Outline_Vpn%29%20Free
 
 vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp@nufilter
