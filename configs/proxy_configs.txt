@@ -22,8 +22,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%
 
 vless://5e2aaa8d-b7b5-499c-b65d-8c7e594f7993@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=bianintoZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20155
 
-vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp@nufilter
-
 vless://7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?encryption=none&security=tls&sni=ah12.ai351.com&fp=chrome&type=ws&host=ah12.ai351.com&path=%2Fcontainers%2Fde#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?encryption=none&security=tls&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
