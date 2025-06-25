@@ -44,6 +44,8 @@ vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%40V2ray_Go
 
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%40V2ray_God&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.nEt.&type=ws#IRAN%2098%20%28%40Outline_Vpn%29%20free
 
+vless://80885b7e-a6ab-a7f6-bca7-cbd52250fe0f@nim.borna.top:10201?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7
+
 vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.189:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.191:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
@@ -73,6 +75,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#IRAN%2073%20%28%40Outline_Vpn%29%20free
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#IRAN%2093%20%28%40Outline_Vpn%29%20free
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#IRAN%2091%20%28%40Outline_Vpn%29%20Free
 
