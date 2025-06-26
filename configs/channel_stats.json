@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-26T08:22:56.289282+00:00",
+  "timestamp": "2025-06-26T09:18:35.131043+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.52,
-        "last_success": "2025-06-26T08:22:46.481402+00:00",
+        "overall_score": 77.73,
+        "last_success": "2025-06-26T09:18:25.313800+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 11,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.7,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.5,
-        "last_success": "2025-06-26T08:22:49.254525+00:00",
+        "last_success": "2025-06-26T09:18:28.113587+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 34,
         "valid_configs": 28,
         "unique_configs": 28,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.95,
-        "last_success": "2025-06-26T08:22:54.007015+00:00",
+        "overall_score": 94.97,
+        "last_success": "2025-06-26T09:18:32.845283+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -103,8 +103,8 @@
         "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.63,
-        "last_success": "2025-06-26T08:22:56.288540+00:00",
+        "overall_score": 89.62,
+        "last_success": "2025-06-26T09:18:35.130315+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
