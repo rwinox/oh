@@ -46,17 +46,7 @@ vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%40V2ray_Go
 
 vless://80885b7e-a6ab-a7f6-bca7-cbd52250fe0f@nim.borna.top:10201?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7
 
-vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.189:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.191:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
 vless://ddeccde0-82f5-4640-a032-7d63d976830a@151.101.3.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=Alirezaaliyour-name.global.ssl.fastly.net&type=xhttp#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%20223
-
-vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.104:443?encryption=none&security=tls&sni=de1.blackismyfavorite.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=httpupgrade&host=de1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.167:443?encryption=none&security=tls&sni=de1.blackismyfavorite.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=httpupgrade&host=de1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://fb8aba76-c0a3-4000-a5ec-de4766086db3@151.101.3.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=Alirezaayour-name.global.ssl.fastly.net&type=xhttp#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%20247
 
