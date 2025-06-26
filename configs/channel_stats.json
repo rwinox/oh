@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T23:16:03.425686+00:00",
+  "timestamp": "2025-06-26T01:20:31.454279+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.61,
-        "last_success": "2025-06-25T23:15:54.016484+00:00",
+        "overall_score": 77.62,
+        "last_success": "2025-06-26T01:20:22.128179+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 13,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.72,
-        "last_success": "2025-06-25T23:15:56.613523+00:00",
+        "overall_score": 87.8,
+        "last_success": "2025-06-26T01:20:24.624212+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.12,
-        "last_success": "2025-06-25T23:16:01.201026+00:00",
+        "overall_score": 95.13,
+        "last_success": "2025-06-26T01:20:29.195701+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 5,
         "valid_configs": 3,
         "unique_configs": 3,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.71,
-        "last_success": "2025-06-25T23:16:03.424978+00:00",
+        "overall_score": 89.66,
+        "last_success": "2025-06-26T01:20:31.453565+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
