@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-28T06:22:26.221095+00:00",
+  "timestamp": "2025-06-28T07:14:59.520867+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.6,
-        "last_success": "2025-06-28T06:22:16.425440+00:00",
+        "overall_score": 77.5,
+        "last_success": "2025-06-28T07:14:49.745684+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.11,
-        "last_success": "2025-06-28T06:22:19.203285+00:00",
+        "overall_score": 77.13,
+        "last_success": "2025-06-28T07:14:52.506219+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,18 +51,18 @@
       "url": "https://t.me/s/nufilter",
       "enabled": true,
       "metrics": {
-        "total_configs": 1,
-        "valid_configs": 1,
-        "unique_configs": 1,
+        "total_configs": 3,
+        "valid_configs": 2,
+        "unique_configs": 2,
         "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2025-06-28T06:22:21.456579+00:00",
+        "overall_score": 91.36,
+        "last_success": "2025-06-28T07:14:54.759950+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 1,
           "vmess://": 0,
           "ss://": 1,
           "trojan://": 0,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.87,
-        "last_success": "2025-06-28T06:22:23.946314+00:00",
+        "overall_score": 93.88,
+        "last_success": "2025-06-28T07:14:57.249264+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -104,7 +104,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 88.53,
-        "last_success": "2025-06-28T06:22:26.220483+00:00",
+        "last_success": "2025-06-28T07:14:59.520084+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
