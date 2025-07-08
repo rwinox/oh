@@ -32,10 +32,6 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqq
 
 vless://6c64eb8d-81bd-4a9b-932c-a470a15e68e2@84.32.190.251:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#SordoVpn%20%28%40Outline_Vpn%29%20free
 
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#IRAN%20154%20%28%40Outline_Vpn%29%20free
-
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#IRAN%20150%20%28%40Outline_Vpn%29%20free
-
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#IRAN%20160%20%28%40Outline_Vpn%29%20free
 
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#IRAN%20163%20%28%40Outline_Vpn%29%20free
@@ -70,13 +66,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Free%24%20IRAN%203%20%28%40Outline_Vpn%29
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#IRAN%20155%20%28%40Outline_Vpn%29%20free
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#IRAN%20211X%20%28%40Outline_Vpn%29%20free
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20151%20%28%40Outline_Vpn%29%20free
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20153%20%28%40Outline_Vpn%29%20free
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free%24%20IRAN%202%20%28%40Outline_Vpn%29
 
