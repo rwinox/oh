@@ -46,8 +46,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#IRAN%20214%20%28%40Outline_Vpn%29%20free
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#&v2ray_cartel+join+sho
-
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?path=%2F6fqYRq6DD1shcFIO%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=FrEEdoM.pAnOtOSU.sTORe#IRAN%20222%20%28%40Outline_Vpn%29%20free
 
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?encryption=none&security=none&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
