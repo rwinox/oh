@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-11T06:26:23.376157+00:00",
+  "timestamp": "2025-07-11T07:18:16.283356+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.72,
-        "last_success": "2025-07-11T06:26:13.738837+00:00",
+        "overall_score": 77.71,
+        "last_success": "2025-07-11T07:18:06.364516+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 78,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.61,
+        "avg_response_time": 0.86,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.98,
-        "last_success": "2025-07-11T06:26:16.448800+00:00",
+        "overall_score": 76.6,
+        "last_success": "2025-07-11T07:18:09.324356+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 19,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.03,
-        "last_success": "2025-07-11T06:26:18.765022+00:00",
+        "overall_score": 76.04,
+        "last_success": "2025-07-11T07:18:11.587181+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 45,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 0.3,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.32,
-        "last_success": "2025-07-11T06:26:21.172717+00:00",
+        "overall_score": 87.27,
+        "last_success": "2025-07-11T07:18:14.027101+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
